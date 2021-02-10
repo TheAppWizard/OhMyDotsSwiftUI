@@ -1,2 +1,2 @@
 # OnMyDotsSwiftUI
-Its a OSCILLATION Animation 🚀
+Its an OSCILLATION Animation 🚀
